@@ -40,7 +40,7 @@ lib/
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/naziyasumara04/Knovator_tech_task.git
    cd Knovator_tech_task
    
 2. Flutter clean
